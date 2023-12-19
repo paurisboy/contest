@@ -1,0 +1,9 @@
+/.idea/
+/target/
+/project/target/
+/project/project/
+/.bsp/
+/src/main/scala/circe.sc/
+/src/main/scala/logs/
+/src/main/scala/Temp
+.DS_Store
